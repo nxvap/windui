@@ -3,7 +3,7 @@ local IconModule = {
     New = nil,
     IconThemeTag = nil,
     Icons = {
-        ["lucide"] = loadstring(game:HttpGetAsync("https://github.com/nxvap/windui/raw/main/icons/icons.lua"))(),
+        ["lucide"] = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nxvap/windui/main/icons/icons.lua"))(),
     },
 }
 
