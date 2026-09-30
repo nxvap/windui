@@ -611,7 +611,7 @@ local i=a.load'a'local j=
 
 d.Heartbeat
 
-local l="https://raw.githubusercontent.com/nxvap/windui/main/icons/main.lua"
+local l="https://raw.githubusercontent.com/nxvap/windui/main/icons/main-v2.lua"
 
 local m
 if d:IsStudio()or not writefile then
